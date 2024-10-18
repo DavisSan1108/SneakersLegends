@@ -1,0 +1,19 @@
+/* Navbar.css */
+.navbar-custom {
+    margin-top: 0px; /* Mueve la barra de navegación hacia abajo */
+    margin-left: 0px; /* Mueve la barra de navegación hacia la derecha */
+  }
+  
+  /* Ajustes específicos para el fondo y texto */
+  .bg-white {
+    background-color: #000000 !important;
+  }
+  
+  .dark\\:bg-gray-900 {
+    background-color: #1a202c !important;
+  }
+  
+  .dark\\:text-white {
+    color: #504b3a !important;
+  }
+  
